@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.header{
+    background-color: blue;
+    height: 60px;
+}
+.header h1{
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+}
+.Form_container
+{
+    background-color:cyan;
+}
+.Form_container label{
+   
+    text-align: center;
+}
+.Form_container input{
+    font-size: 15px;
+}
